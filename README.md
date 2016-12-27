@@ -1,2 +1,2 @@
 # TryOut
-Try Github infrastructure
+Try Github infrastructure and see what Github offers
